@@ -11,7 +11,7 @@ An app to view and manage the departments, roles, and employees in a company, al
 ## Table of Contents
 * [Usage](#usage)
 * [License](#license)
-* [questions](#questions)
+* [Questions](#questions)
   
 
   
