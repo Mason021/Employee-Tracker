@@ -21,7 +21,7 @@ An app to view and manage the departments, roles, and employees in a company, al
 2. Menu options lead to additional prompts
 3. Options return to the home menu.
 4. Select the next option as needed.
-5. Use the Exit option to close the application. 
+5. Use the Exit option to close the application.
 
 Here is a link to the [project in use](https://www.youtube.com/watch?v=s0j8VrJ4dhw)
 
